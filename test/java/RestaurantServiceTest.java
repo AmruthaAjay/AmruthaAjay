@@ -73,7 +73,7 @@ class RestaurantServiceTest {
     public void calculate_the_order_cost()
     {  String expectedPrice = "119";
         mockData();
-        String getPrice = service.getPriceResturant(restaurant.getMenu());
+        String getPrice = service.getPriceRestaurant(restaurant.getMenu());
 
         assertEquals(expectedPrice, getPrice);
     }
