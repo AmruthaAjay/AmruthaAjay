@@ -40,6 +40,7 @@ public class RestaurantService {
                 price = price + item.getPrice();
 
         }
+        
         return String.valueOf(price);
 
     }
