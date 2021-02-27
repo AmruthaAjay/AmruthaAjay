@@ -32,7 +32,7 @@ public class RestaurantService {
         return restaurants;
     }
 
-    public String getPriceResturant(List<Item> items) {
+    public String getPriceRestaurant(List<Item> items) {
         int price = 0;
 
         for (Item item : items) {
