@@ -1,1 +1,1 @@
- The RESTAURANT FINDER  application JUST SHOWS THE RESTAURANTS and it does not take orders. It is only to view the amount that the user would be spending at a restaurant that he/she is looking to visit.
+ The RESTAURANT FINDER  application just shows the restaurants , menu of itens with its cost and it does not take orders. It is only to view the amount that the user would be spending at a restaurant that he/she is looking to visit.
